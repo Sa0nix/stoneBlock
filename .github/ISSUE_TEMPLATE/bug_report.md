@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Enchanter
 
 ---
 
@@ -10,10 +10,10 @@ about: Create a report to help us improve
 
 ## Bug Report
 <!---  describe the current behavior -->
-
+When using the Enchanter from Extra_Utilities_2 sometimes the Game crashes.
 ## Steps to Reproduce (for bugs)
 <!--- Provide a link to a live example, or an unambiguous set of steps to -->
-1.
+1.While the Echanter [from Extra Utilities2] is running Shift in new Items 
 2.
 <!--- Add more if needed -->
 
@@ -21,11 +21,11 @@ about: Create a report to help us improve
 <!-- Twitch logs can be found in the installation directory for the Twitch App.  Or click the "..." button on StoneBlock and hit "Open Folder" -->
 <!-- Then upload the latest/crash logs to PasteBin or Gist. DON'T Upload them to GitHub -->
 * Client/Server Log:
-* Crash Log:
+* Crash Log: https://pastebin.com/sFXTm0Nk
 
 ## Client Information
 <!--- Include as many relevant details about the environment you experienced the bug in -->
-* Modpack Version:
-* Server/LAN/Single Player:
-* Optifine Installed:
-* Shaders Enabled:
+* Modpack Version:1.0.28 (also in earlier versions)
+* Server/LAN/Single Player: Single player
+* Optifine Installed: No
+* Shaders Enabled: No
